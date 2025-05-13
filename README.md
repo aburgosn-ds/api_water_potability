@@ -1,3 +1,2 @@
 # Machine Learning Project with DVC
-This projects implements a machine learning algorithm to predict water potability from a dataset from Kaggle. It is performed the following steps: data collection, data preparation, model building, and model evaluation. 
-All steps are tracked using Data Version Control. Finally, the best model found is made available as an API using FastAPI.
+This projects implements a Random Forest machine learning algorithm to predict water potability from a dataset from Kaggle. This project is focused on the complete implementation rather than looking the best model. It is performed the following steps: data collection, data preparation, model building, and model evaluation. All steps are tracked using Data Version Control. Finally, the model is made available as an API using FastAPI.
